@@ -1,7 +1,7 @@
 {
-    "author": "David Wolf",
-    "github_username": "devidw",
+    "author": "MJ",
+    "github_username": "niksfirefly",
     "project_name": "",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "project_short_description": ""
+    "project_short_description": "test"
 }
